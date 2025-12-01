@@ -7,7 +7,7 @@ Requirements
 
 Build
 
-From the project root (`/Users/yuyangw/Desktop/spaceship`):
+From the project root:
 
 ```bash
 dotnet build ProjectSpaceship.csproj -c Debug
@@ -37,5 +37,3 @@ dotnet test ProjectSpaceship.Tests/ProjectSpaceship.Tests.csproj
 Repository notes
 - The `run-simulation` command executes a scripted example that performs the sequence described in the requirements (moves, docks, attacks, repairs, fleet attack).
 - Tests exercise the scripted simulation and assert the final expected outcome.
-
-If you want, I can also add a CI workflow to run the tests on push.
