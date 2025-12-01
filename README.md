@@ -3,8 +3,9 @@
 Minimal console spaceship game project. Includes a scripted simulation and unit tests.
 
 Requirements
+```
 .NET SDK 8.0 or later
-
+```
 Build
 
 From the project root:
