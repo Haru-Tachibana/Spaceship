@@ -1,0 +1,14 @@
+/Users/yuyangw/Desktop/spaceship/bin/Debug/net8.0/ProjectSpaceship
+/Users/yuyangw/Desktop/spaceship/bin/Debug/net8.0/ProjectSpaceship.deps.json
+/Users/yuyangw/Desktop/spaceship/bin/Debug/net8.0/ProjectSpaceship.runtimeconfig.json
+/Users/yuyangw/Desktop/spaceship/bin/Debug/net8.0/ProjectSpaceship.dll
+/Users/yuyangw/Desktop/spaceship/bin/Debug/net8.0/ProjectSpaceship.pdb
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.AssemblyInfoInputs.cache
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.AssemblyInfo.cs
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.csproj.CoreCompileInputs.cache
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.dll
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/refint/ProjectSpaceship.dll
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.pdb
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ProjectSpaceship.genruntimeconfig.cache
+/Users/yuyangw/Desktop/spaceship/obj/Debug/net8.0/ref/ProjectSpaceship.dll
